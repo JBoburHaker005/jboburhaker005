@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=100&color=blue+black&center=true&vCenter=true&hight=500&width=1000&lines=Hello!+I'm+Bobur+Jovliyev!;I'm+Hacker+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=100&color=blue+black&center=true&vCenter=true&hight=700&width=1000&lines=Hello!+I'm+Bobur+Jovliyev!;I'm+Hacker+!" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
